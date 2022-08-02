@@ -5,7 +5,7 @@ I am Mohamed from Egypt , living in the Netherlands , On my way to be Full stack
 Skills:  / REACT / JS / HTML / CSS/Nodejs
 
 - 🌱 I’m currently learning  javascript at HACKYOURFUTURE Coding Academy in Amsterdam. 
-- 💬 Ask me about an 
+
 - 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/mohamed-belal-6351571a3/) 
 - ⚡ Fun fact: Coding ,Boxing and Music 
 
