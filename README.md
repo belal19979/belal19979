@@ -1,10 +1,10 @@
 ### Hi there 👋, Mohamed Belal
 #### Full Stack Developer
-I am Mohamed from Egypt , living in the Netherlands , On my way to be Full stack Developer .
+I am Mohamed from Egypt , living in the Netherlands ,junior Full stack Developer .
 
 Skills:  / REACT / JS / HTML / CSS/Nodejs
 
-- 🌱 I’m currently learning  javascript at HACKYOURFUTURE Coding Academy in Amsterdam. 
+- 🌱 I’m currently grauduate from HACKYOURFUTURE Coding Academy in Amsterdam. 
 
 - 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/mohamed-belal-6351571a3/) 
 - ⚡ Fun fact: Coding ,Boxing and Music 
