@@ -1,13 +1,9 @@
 ### Hi there 👋, Mohamed Belal
-#### Full Stack Developer
-I am Mohamed from Egypt , living in the Netherlands ,junior Full stack Developer .
+#### Application Developer
+I am Mohamed, Application Developer at APSGroup.
 
-Skills:  / REACT / JS / HTML / CSS/Nodejs
 
-- 🌱 I’m currently grauduate from HACKYOURFUTURE Coding Academy in Amsterdam. 
 
-- 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/mohamed-belal-6351571a3/) 
-- ⚡ Fun fact: Coding ,Boxing and Music 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/belal19979)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-belal-6351571a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohamed.belal.56)  
